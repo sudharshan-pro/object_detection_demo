@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Terrace House</folder>
+	<filename>10000046.jpg</filename>
+	<path>C:\Users\tidyquant\Dropbox\Tidyquant Team\Ashish\Labelled Images\Rooms\Terrace House\0000046.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1172</width>
+		<height>2106</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>1075</ymin>
+			<xmax>880</xmax>
+			<ymax>1872</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>137</ymin>
+			<xmax>880</xmax>
+			<ymax>1104</ymax>
+		</bndbox>
+	</object>
+</annotation>
