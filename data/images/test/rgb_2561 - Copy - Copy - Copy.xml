@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>rgb_2561 - Copy - Copy - Copy.png</filename>
+	<path>C:\Users\ArunOnedata\Desktop\50images\4th-set-room\train\rgb_2561 - Copy - Copy - Copy.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2481</width>
+		<height>1754</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>883</xmin>
+			<ymin>486</ymin>
+			<xmax>1269</xmax>
+			<ymax>971</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1427</xmin>
+			<ymin>798</ymin>
+			<xmax>1813</xmax>
+			<ymax>1263</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1257</xmin>
+			<ymin>117</ymin>
+			<xmax>2111</xmax>
+			<ymax>811</ymax>
+		</bndbox>
+	</object>
+</annotation>
