@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>rgb_1248 - Copy - Copy.png</filename>
+	<path>C:\Users\ArunOnedata\Desktop\50images\img\3rd-set-window\train\rgb_1248 - Copy - Copy.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2481</width>
+		<height>1754</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>window</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>767</xmin>
+			<ymin>1403</ymin>
+			<xmax>889</xmax>
+			<ymax>1440</ymax>
+		</bndbox>
+	</object>
+</annotation>
