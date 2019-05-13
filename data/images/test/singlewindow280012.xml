@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>singlewindow280012.jpg</filename>
+	<path>C:\Users\ONEDATA-SUDHARSHAN\Desktop\ML\new set 03.05.2019\train\singlewindow280012.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2721</width>
+		<height>3521</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>window</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>677</xmin>
+			<ymin>964</ymin>
+			<xmax>1132</xmax>
+			<ymax>1026</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>window</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1744</xmin>
+			<ymin>962</ymin>
+			<xmax>2126</xmax>
+			<ymax>1027</ymax>
+		</bndbox>
+	</object>
+</annotation>
