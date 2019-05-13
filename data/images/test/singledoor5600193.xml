@@ -1,14 +1,14 @@
 <annotation>
 	<folder>train</folder>
-	<filename>singledoor5600196.jpg</filename>
-	<path>C:\Users\ONEDATA-SUDHARSHAN\Desktop\ML\new set 03.05.2019\train\singledoor5600196.jpg</path>
+	<filename>singledoor5600193.jpg</filename>
+	<path>C:\Users\ONEDATA-SUDHARSHAN\Desktop\ML\new set 03.05.2019\train\singledoor5600193.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1846</width>
-		<height>1404</height>
-		<depth>1</depth>
+		<width>2857</width>
+		<height>1965</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>257</xmin>
-			<ymin>402</ymin>
-			<xmax>372</xmax>
-			<ymax>522</ymax>
+			<xmin>1143</xmin>
+			<ymin>365</ymin>
+			<xmax>1288</xmax>
+			<ymax>501</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1224</xmin>
-			<ymin>709</ymin>
-			<xmax>1354</xmax>
-			<ymax>872</ymax>
+			<xmin>2003</xmin>
+			<ymin>1573</ymin>
+			<xmax>2098</xmax>
+			<ymax>1762</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1037</xmin>
-			<ymin>1168</ymin>
-			<xmax>1186</xmax>
-			<ymax>1296</ymax>
+			<xmin>1774</xmin>
+			<ymin>1424</ymin>
+			<xmax>1853</xmax>
+			<ymax>1485</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>948</xmin>
-			<ymin>1165</ymin>
-			<xmax>1024</xmax>
-			<ymax>1271</ymax>
+			<xmin>1850</xmin>
+			<ymin>1314</ymin>
+			<xmax>1987</xmax>
+			<ymax>1429</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>941</xmin>
-			<ymin>1002</ymin>
-			<xmax>1019</xmax>
-			<ymax>1117</ymax>
+			<xmin>1612</xmin>
+			<ymin>1317</ymin>
+			<xmax>1740</xmax>
+			<ymax>1452</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>219</xmin>
-			<ymin>697</ymin>
-			<xmax>265</xmax>
-			<ymax>784</ymax>
+			<xmin>1549</xmin>
+			<ymin>1129</ymin>
+			<xmax>1679</xmax>
+			<ymax>1247</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>217</xmin>
-			<ymin>582</ymin>
-			<xmax>267</xmax>
-			<ymax>671</ymax>
+			<xmin>1718</xmin>
+			<ymin>467</ymin>
+			<xmax>1860</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>197</xmin>
-			<ymin>1018</ymin>
-			<xmax>329</xmax>
-			<ymax>1153</ymax>
+			<xmin>1727</xmin>
+			<ymin>289</ymin>
+			<xmax>1860</xmax>
+			<ymax>407</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +113,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>294</xmin>
-			<ymin>843</ymin>
-			<xmax>421</xmax>
-			<ymax>978</ymax>
+			<xmin>1343</xmin>
+			<ymin>528</ymin>
+			<xmax>1539</xmax>
+			<ymax>620</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -125,10 +125,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1504</xmin>
-			<ymin>886</ymin>
-			<xmax>1649</xmax>
-			<ymax>1032</ymax>
+			<xmin>1172</xmin>
+			<ymin>859</ymin>
+			<xmax>1248</xmax>
+			<ymax>926</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -137,10 +137,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1349</xmin>
-			<ymin>892</ymin>
-			<xmax>1480</xmax>
-			<ymax>1035</ymax>
+			<xmin>1030</xmin>
+			<ymin>552</ymin>
+			<xmax>1167</xmax>
+			<ymax>702</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1025</xmin>
+			<ymin>854</ymin>
+			<xmax>1094</xmax>
+			<ymax>928</ymax>
 		</bndbox>
 	</object>
 </annotation>
