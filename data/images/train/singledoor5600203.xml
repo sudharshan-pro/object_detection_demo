@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>singledoor5600203.jpg</filename>
+	<path>C:\Users\ONEDATA-SUDHARSHAN\Desktop\ML\new set 03.05.2019\train\singledoor5600203.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3300</width>
+		<height>2550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1761</xmin>
+			<ymin>1942</ymin>
+			<xmax>2038</xmax>
+			<ymax>2143</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2216</xmin>
+			<ymin>1435</ymin>
+			<xmax>2480</xmax>
+			<ymax>1596</ymax>
+		</bndbox>
+	</object>
+</annotation>
