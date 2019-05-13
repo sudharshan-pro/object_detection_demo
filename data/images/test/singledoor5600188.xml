@@ -1,14 +1,14 @@
 <annotation>
 	<folder>train</folder>
-	<filename>singledoor5600175.jpg</filename>
-	<path>C:\Users\ONEDATA-SUDHARSHAN\Desktop\ML\new set 03.05.2019\train\singledoor5600175.jpg</path>
+	<filename>singledoor5600188.jpg</filename>
+	<path>C:\Users\ONEDATA-SUDHARSHAN\Desktop\ML\new set 03.05.2019\train\singledoor5600188.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1309</width>
-		<height>1921</height>
-		<depth>1</depth>
+		<width>1992</width>
+		<height>1229</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>447</xmin>
-			<ymin>969</ymin>
-			<xmax>502</xmax>
-			<ymax>1026</ymax>
+			<xmin>939</xmin>
+			<ymin>331</ymin>
+			<xmax>1042</xmax>
+			<ymax>417</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1148</xmin>
-			<ymin>1064</ymin>
-			<xmax>1247</xmax>
-			<ymax>1155</ymax>
+			<xmin>1025</xmin>
+			<ymin>484</ymin>
+			<xmax>1108</xmax>
+			<ymax>570</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,34 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>880</xmin>
-			<ymin>1254</ymin>
-			<xmax>957</xmax>
-			<ymax>1332</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>door</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>618</xmin>
-			<ymin>1380</ymin>
-			<xmax>696</xmax>
-			<ymax>1457</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>door</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>652</xmin>
-			<ymin>967</ymin>
-			<xmax>708</xmax>
-			<ymax>1022</ymax>
+			<xmin>818</xmin>
+			<ymin>784</ymin>
+			<xmax>920</xmax>
+			<ymax>896</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,9 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>621</xmin>
-			<ymin>792</ymin>
-			<xmax>696</xmax>
-			<ymax>866</ymax>
+			<ymin>655</ymin>
+			<xmax>722</xmax>
+			<ymax>759</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +65,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>530</xmin>
-			<ymin>878</ymin>
-			<xmax>607</xmax>
-			<ymax>954</ymax>
+			<xmin>614</xmin>
+			<ymin>528</ymin>
+			<xmax>717</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>745</xmin>
+			<ymin>384</ymin>
+			<xmax>840</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>937</xmin>
+			<ymin>329</ymin>
+			<xmax>1040</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1150</xmin>
+			<ymin>482</ymin>
+			<xmax>1253</xmax>
+			<ymax>568</ymax>
 		</bndbox>
 	</object>
 </annotation>
