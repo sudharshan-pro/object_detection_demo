@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
-	<filename>singledoor5600176.jpg</filename>
-	<path>C:\Users\ONEDATA-SUDHARSHAN\Desktop\ML\new set 03.05.2019\train\singledoor5600176.jpg</path>
+	<filename>singledoor5600191.jpg</filename>
+	<path>C:\Users\ONEDATA-SUDHARSHAN\Desktop\ML\new set 03.05.2019\train\singledoor5600191.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1622</width>
-		<height>1622</height>
+		<width>0</width>
+		<height>0</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>378</xmin>
-			<ymin>482</ymin>
-			<xmax>423</xmax>
-			<ymax>525</ymax>
+			<xmin>416</xmin>
+			<ymin>646</ymin>
+			<xmax>509</xmax>
+			<ymax>752</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1320</xmin>
-			<ymin>632</ymin>
-			<xmax>1359</xmax>
-			<ymax>670</ymax>
+			<xmin>1017</xmin>
+			<ymin>717</ymin>
+			<xmax>1123</xmax>
+			<ymax>786</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1287</xmin>
-			<ymin>676</ymin>
-			<xmax>1332</xmax>
-			<ymax>722</ymax>
+			<xmin>926</xmin>
+			<ymin>860</ymin>
+			<xmax>969</xmax>
+			<ymax>906</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1241</xmin>
-			<ymin>741</ymin>
-			<xmax>1276</xmax>
-			<ymax>780</ymax>
+			<xmin>1052</xmin>
+			<ymin>924</ymin>
+			<xmax>1136</xmax>
+			<ymax>1021</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1232</xmin>
-			<ymin>480</ymin>
-			<xmax>1277</xmax>
-			<ymax>523</ymax>
+			<xmin>1042</xmin>
+			<ymin>1017</ymin>
+			<xmax>1114</xmax>
+			<ymax>1075</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1184</xmin>
-			<ymin>540</ymin>
-			<xmax>1229</xmax>
-			<ymax>583</ymax>
+			<xmin>926</xmin>
+			<ymin>1012</ymin>
+			<xmax>996</xmax>
+			<ymax>1066</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1126</xmin>
-			<ymin>525</ymin>
-			<xmax>1171</xmax>
-			<ymax>568</ymax>
+			<xmin>768</xmin>
+			<ymin>994</ymin>
+			<xmax>887</xmax>
+			<ymax>1108</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>807</xmin>
-			<ymin>694</ymin>
-			<xmax>858</xmax>
-			<ymax>736</ymax>
+			<xmin>778</xmin>
+			<ymin>789</ymin>
+			<xmax>844</xmax>
+			<ymax>897</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +113,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>747</xmin>
-			<ymin>695</ymin>
-			<xmax>800</xmax>
-			<ymax>739</ymax>
+			<xmin>736</xmin>
+			<ymin>339</ymin>
+			<xmax>860</xmax>
+			<ymax>437</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -125,10 +125,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>518</xmin>
-			<ymin>743</ymin>
-			<xmax>565</xmax>
-			<ymax>791</ymax>
+			<xmin>776</xmin>
+			<ymin>41</ymin>
+			<xmax>893</xmax>
+			<ymax>141</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -137,10 +137,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>551</xmin>
-			<ymin>563</ymin>
-			<xmax>596</xmax>
-			<ymax>606</ymax>
+			<xmin>966</xmin>
+			<ymin>648</ymin>
+			<xmax>1058</xmax>
+			<ymax>737</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -149,10 +149,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>366</xmin>
-			<ymin>797</ymin>
-			<xmax>411</xmax>
-			<ymax>840</ymax>
+			<xmin>957</xmin>
+			<ymin>395</ymin>
+			<xmax>1056</xmax>
+			<ymax>492</ymax>
 		</bndbox>
 	</object>
 </annotation>
